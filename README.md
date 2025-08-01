@@ -1,4 +1,9 @@
-## Hi there .
+## Hi there !
+
+🌱 I’m currently working on ... d77
+🌱 I’m currently learning ... Python
+💬 Ask me about ... d77void
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-77)](https://github.com/anuraghazra/github-readme-stats)
 <!--
