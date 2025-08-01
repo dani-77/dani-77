@@ -6,7 +6,7 @@
 
 💬 Ask me about ... d77void
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-77&show_icons=true&theme=
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-77&show_icons=true&theme=Dracula
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
