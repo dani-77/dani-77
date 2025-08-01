@@ -1,7 +1,9 @@
 ## Hi there !
 
-🌱 I’m currently working on ... d77
-🌱 I’m currently learning ... Python
+🌱 I’m currently working on ... d77 repositories
+
+⚡ I’m currently learning ... Python
+
 💬 Ask me about ... d77void
 
 
