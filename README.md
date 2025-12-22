@@ -1,10 +1,18 @@
 ## Hi there !
 
-🌱 I’m currently working on ... d77 repositories
+My name is Daniel and I am an open source enthusiast. 
 
-⚡ I’m currently learning ... Python
+I am working on d77Void, a Void respin with several WM, the DE Cosmic, LXQt and XFCE4. 
 
-💬 Ask me about ... d77void
+Currently I am the maintainer of my own repository d77void-pkgs, where you can found, among others, Brave browser, Yubikey authenticator, 
+wmd77 (my Rust Penrose lib WM), patched versions of suckless tools like dwm, slstatus, st, surf and many more.
+
+In the paste few years I worked on:
+
+d77coreboot - corebooting laptops
+
+d77crux - porting packages to CRUX 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani-77&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
