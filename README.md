@@ -1,4 +1,4 @@
-## Hi there!
+# Hi there!
 
 My name is Daniel and I am an open source enthusiast. 
 
@@ -7,7 +7,7 @@ I am working on [d77Void](https://github.com/dani-77/d77void), a Void respin wit
 Currently I am the maintainer of my own repository [d77void-pkgs](https://github.com/dani-77/d77void-pkgs), where you can find, among others, Brave browser, Yubikey authenticator, 
 wmd77 (my Rust Penrose lib WM), patched versions of suckless tools like dwm, slstatus, st, surf and many more.
 
-# Past
+## Past
 
 In the past few years I worked on:
 
@@ -15,7 +15,7 @@ In the past few years I worked on:
 
 [d77crux](https://github.com/dani-77/d77crux) - porting packages to CRUX 
 
-# Future
+## Future
 
 I am developing/learning to program in Python, C, Haskell, and Rust; I hope to improve my skills by being more pragmatic in choosing what to do and what to read/observe, and by being more disciplined.
 
