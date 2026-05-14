@@ -2,7 +2,7 @@
 
 My name is Daniel and I am an open source enthusiast. 
 
-I am working on [d77Void](https://github.com/d77void), a Void respin with several WM, the DE Cosmic, LXQt and XFCE4. 
+I am working on [d77Void](https://github.com/d77void), a Void respin with several WM, the DE Gnome,LXQt, Plasma and XFCE4. 
 
 Currently I am the maintainer of my own repository [d77void-pkgs](https://github.com/d77void/srcpkgs-d77), where you can find, among others, Brave browser, Yubikey authenticator, 
 wmd77 (my Rust Penrose lib WM), patched versions of suckless tools like dwm, slstatus, st, surf and many more.
