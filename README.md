@@ -2,7 +2,7 @@
   <img src="logo.png" alt="d77 logo" width="160">
 </p>
 
-# Hi there!
+<h1 align="center">Hi there!</h1>
 
 My name is Daniel and I am an open source enthusiast. 
 
