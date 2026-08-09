@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="d77 logo" width="160">
+</p>
+
 # Hi there!
 
 My name is Daniel and I am an open source enthusiast. 
